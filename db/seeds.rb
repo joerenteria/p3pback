@@ -11,20 +11,23 @@ product3 = Product.create(image: "https://cdn.shopify.com/s/files/1/2989/5182/pr
 product4 = Product.create(image: "https://cdn.shopify.com/s/files/1/2989/5182/products/853149008068.1_grande.jpg?v=1604016567", brand: "Rebel", flavor: "Butter Pecan")
 product5 = Product.create(image: "https://cdn.shopify.com/s/files/1/2989/5182/products/853149008143.1_grande.jpg?v=1604016756", brand: "Rebel", flavor: "Chocolate Peanut Butter")
 product6 = Product.create(image: "https://cdn.shopify.com/s/files/1/2989/5182/products/853149008051.1_grande.jpg?v=1604017360", brand: "Rebel", flavor: "Strawberry")
+product7 = Product.create(image: "https://cdn.shopify.com/s/files/1/2989/5182/products/853149008006.1_1024x1024.jpg?v=1604017425", brand: "Rebel", flavor: "Vanilla")
 
-product55 = Product.create(image: "https://cdn.shopify.com/s/files/1/0129/8769/5204/products/5_2_250x.jpg?v=1626890489/products/cake-batter-ice-cream", brand: "Keto", flavor: "Cake Batter")
-product56 = Product.create(image: "https://cdn.shopify.com/s/files/1/0129/8769/5204/products/3_1_250x.jpg?v=1621917454/products/cherry-chip-ice-cream", brand: "Keto", flavor: "Cherry Chip")
-product57= Product.create(image: "https://cdn.shopify.com/s/files/1/0129/8769/5204/products/9_250x.jpg?v=1612992733/products/chocolate-ice-cream", brand: "Keto", flavor: "Chocolate")
-product58= Product.create(image: "https://cdn.shopify.com/s/files/1/0129/8769/5204/products/6_250x.jpg?v=1612992431/products/butter-pecan-ice-cream", brand: "Keto", flavor: "Butter Pecan")
-product59= Product.create(image: "https://cdn.shopify.com/s/files/1/0129/8769/5204/products/4_250x.jpg?v=1612992352/products/peanut-butter-cup-ice-cream", brand: "Keto", flavor: "Peanut Butter Cup")
-product60= Product.create(image: "https://cdn.shopify.com/s/files/1/0129/8769/5204/products/1_1_250x.jpg?v=1623707413/products/strawberry-ice-cream", brand: "Keto", flavor: "Strawberry")
-
+product55 = Product.create(image: "https://media.reviews.co.uk/resize/create?src=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Freviews-us-assets%2Fassets%2Fupload-8f9265831a39e779c13b47496c20cfaa-1631836935.jpeg&height=641&width=641", brand: "Keto", flavor: "Cake Batter")
+product56 = Product.create(image: "https://media.reviews.co.uk/resize/create?src=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Freviews-us-assets%2Fassets%2Fupload-8f9265831a39e779c13b47496c20cfaa-1631836935.jpeg&height=641&width=641", brand: "Keto", flavor: "Cherry Chip")
+product57= Product.create(image: "https://media.reviews.co.uk/resize/create?src=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Freviews-us-assets%2Fassets%2Fupload-8f9265831a39e779c13b47496c20cfaa-1631836935.jpeg&height=641&width=641", brand: "Keto", flavor: "Chocolate")
+product58= Product.create(image: "https://media.reviews.co.uk/resize/create?src=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Freviews-us-assets%2Fassets%2Fupload-8f9265831a39e779c13b47496c20cfaa-1631836935.jpeg&height=641&width=641", brand: "Keto", flavor: "Butter Pecan")
+product59= Product.create(image: "https://media.reviews.co.uk/resize/create?src=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Freviews-us-assets%2Fassets%2Fupload-8f9265831a39e779c13b47496c20cfaa-1631836935.jpeg&height=641&width=641", brand: "Keto", flavor: "Peanut Butter Cup")
+product60= Product.create(image: "https://media.reviews.co.uk/resize/create?src=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Freviews-us-assets%2Fassets%2Fupload-8f9265831a39e779c13b47496c20cfaa-1631836935.jpeg&height=641&width=641", brand: "Keto", flavor: "Strawberry")
+product61= Product.create(image: "https://media.reviews.co.uk/resize/create?src=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Freviews-us-assets%2Fassets%2Fupload-8f9265831a39e779c13b47496c20cfaa-1631836935.jpeg&height=641&width=641", brand: "Keto", flavor: "Black Raspberry")
+  
 product25 = Product.create(image: "https://cdn.shopify.com/s/files/1/0255/2892/6288/products/Pint-Render-1000px-Delish-Triple-Chocolate-Brownie-Dough_720x.png?v=1627935719", brand: "Enlightened", flavor: "Triple Chocolate Brownie Dough")
 product26= Product.create(image: "https://cdn.shopify.com/s/files/1/0255/2892/6288/products/1-KetoIceCreamCakePint-PrimaryImage_720x.png?v=1614630200", brand: "Enlightened", flavor: "Ice Cream Cake")
 product27= Product.create(image: "https://cdn.shopify.com/s/files/1/0255/2892/6288/products/Pint-Render-1000px-Keto-Chocolate-Glazed-Donut_720x.png?v=1620680206", brand: "Enlightened", flavor: "Chocolate Glazed Donut")
 product28= Product.create(image: "https://cdn.shopify.com/s/files/1/0255/2892/6288/products/Pint-Render-1000px-Keto-Butter-Pecan_720x.png?v=1620680206", brand: "Enlightened", flavor: "Butter Pecan")
 product29= Product.create(image: "https://cdn.shopify.com/s/files/1/0255/2892/6288/products/Pint-Render-1000px-Keto-Red-Velvet_720x.png?v=1620680206", brand: "Enlightened", flavor: "Red Velvet Pint")
 product30= Product.create(image: "https://cdn.shopify.com/s/files/1/0255/2892/6288/products/Pint-Render-1000px-Keto-Mint-Chocolate-Chunk_720x.png?v=1620680205", brand: "Enlightened", flavor: "Mint Chocolate Chunk")
+product31= Product.create(image: "https://cdn.shopify.com/s/files/1/0255/2892/6288/products/Pint-Render-1000px-Keto-Caramel-Chocolate-Double-Dough_720x.png?v=1620680206", brand: "Enlightened", flavor: "Caramel Chocolate Double Dough")
 
 
 
