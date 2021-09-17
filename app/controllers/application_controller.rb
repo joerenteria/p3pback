@@ -25,8 +25,14 @@ class ApplicationController < Sinatra::Base
       name: params[:name],
       rating: params[:rating],
       comment: params[:comment],
+      product_id: params[:product_id]
     )
     review.to_json
+  end
+
+  get '/product_reviews/:id' do
+    product_reviews = Product.find(params[:id]).reviews
+    product_reviews.to_json
   end
 
 end
